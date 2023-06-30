@@ -8,3 +8,4 @@ React JS
 Angular
 Vue JS
 ~ php dan frrameworknya
+~ belajar api  dan fpi publik
