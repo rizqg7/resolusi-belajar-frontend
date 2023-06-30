@@ -1,0 +1,4 @@
+Rencana bahasa yang akan dipelajari:
+~ Html dasar
+~ css dasar 
+~ javascript dasar
