@@ -8,4 +8,5 @@ React JS
 Angular
 Vue JS
 ~ php dan frrameworknya
-belajar golang
+~ belajar api  dan fpi publik
+
