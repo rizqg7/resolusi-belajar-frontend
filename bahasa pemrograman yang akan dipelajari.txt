@@ -1,4 +1,8 @@
 Rencana bahasa yang akan dipelajari:
 ~ Html dasar
-~ css dasar 
-~ javascript dasar
+~ css dasar :
+Boooystrap
+~ javascript dasar:
+React JS
+Angular
+Vue JS
